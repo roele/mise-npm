@@ -1,7 +1,7 @@
 function PLUGIN:BackendInstall(ctx)
-    local tool = BACKEND_CTX.tool
-    local version = BACKEND_CTX.version
-    local install_path = BACKEND_CTX.install_path
+    local tool = ctx.tool
+    local version = ctx.version
+    local install_path = ctx.install_path
     
     -- Create install directory
     os.execute("mkdir -p " .. install_path)
