@@ -3,7 +3,7 @@ PLUGIN = {}
 
 --- !!! MUST BE SET !!!
 --- Plugin name
-PLUGIN.name = "vfox-npm"
+PLUGIN.name = "mise-npm"
 --- Plugin version
 PLUGIN.version = "1.0.0"
 --- Plugin homepage
