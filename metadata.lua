@@ -7,7 +7,7 @@ PLUGIN.name = "mise-npm"
 --- Plugin version
 PLUGIN.version = "1.0.0"
 --- Plugin homepage
-PLUGIN.homepage = "https://github.com/jdx/vfox-npm"
+PLUGIN.homepage = "https://github.com/roele/mise-npm"
 --- Plugin license, please choose a correct license according to your needs.
 PLUGIN.license = "MIT"
 --- Plugin description
